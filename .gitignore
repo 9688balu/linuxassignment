@@ -1,0 +1,12 @@
+# Ignore all backup archives except sample
+*.tar.gz
+!sample/apache_backup_sample.tar.gz
+
+# Ignore all logs except verification logs
+*.log
+!logs/apache_verify_*.log
+!logs/nginx_verify_*.log
+
+# Ignore temp restore folders
+/tmp/
+restore_test_*/
