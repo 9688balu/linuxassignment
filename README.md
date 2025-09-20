@@ -23,7 +23,7 @@ Set up secure, monitored, and well-maintained development environments for Sarah
 
 ### Screenshots
 - Installation confirmation
-- <img width="940" height="299" alt="image" src="https://github.com/user-attachments/assets/159fcf8b-65ce-4daf-9ea4-2273eab1a16b" />
+<img width="940" height="299" alt="image" src="https://github.com/user-attachments/assets/159fcf8b-65ce-4daf-9ea4-2273eab1a16b" />
 
 - Monitoring tools in action
 <img width="823" height="493" alt="image" src="https://github.com/user-attachments/assets/3e2a87a5-462d-40a9-baa5-18b539aa0136" />
@@ -49,11 +49,11 @@ Set up secure, monitored, and well-maintained development environments for Sarah
 - User creation
   <img width="940" height="363" alt="image" src="https://github.com/user-attachments/assets/d1d5ddce-50fd-4ef5-b6e8-e518e0084f4a" />
 - Directory permissions
-- <img width="940" height="143" alt="image" src="https://github.com/user-attachments/assets/19a05cb1-c5ca-4b77-91b9-3bc80833baec" />
+  <img width="940" height="143" alt="image" src="https://github.com/user-attachments/assets/19a05cb1-c5ca-4b77-91b9-3bc80833baec" />
 - Password policy config files
-- <img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/464be5b4-772c-4d51-a269-52bac6cc9742" />
-- <img width="940" height="209" alt="image" src="https://github.com/user-attachments/assets/aa7feab5-6dec-494c-8380-4cf06b3230fb" />
-- <img width="940" height="43" alt="image" src="https://github.com/user-attachments/assets/d644928a-2a7b-400b-8a74-fcb4a452193b" />-
+ <img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/464be5b4-772c-4d51-a269-52bac6cc9742" />
+ <img width="940" height="209" alt="image" src="https://github.com/user-attachments/assets/aa7feab5-6dec-494c-8380-4cf06b3230fb" />
+ <img width="940" height="43" alt="image" src="https://github.com/user-attachments/assets/d644928a-2a7b-400b-8a74-fcb4a452193b" />-
 
 ## Task 3: Backup Configuration for Web Servers
 
@@ -79,15 +79,16 @@ Set up secure, monitored, and well-maintained development environments for Sarah
 <img width="796" height="90" alt="image" src="https://github.com/user-attachments/assets/220c2100-9b0d-47c8-9948-6d29ca230739" />
 
 - Script contents
-- <img width="1147" height="573" alt="image" src="https://github.com/user-attachments/assets/00522cfd-66c2-46e9-bf42-06b118c50d90" />
+<img width="1147" height="573" alt="image" src="https://github.com/user-attachments/assets/00522cfd-66c2-46e9-bf42-06b118c50d90" />
 
 - Cron job entries
-- <img width="701" height="119" alt="image" src="https://github.com/user-attachments/assets/cc79c336-585c-4744-aa6b-9febaf644c14" />
+<img width="701" height="119" alt="image" src="https://github.com/user-attachments/assets/cc79c336-585c-4744-aa6b-9febaf644c14" />
 
 - Backup files and verification logs
-- <img width="1584" height="208" alt="image" src="https://github.com/user-attachments/assets/d5aea63a-646a-4210-b19b-5595b2d3b078" />
-- <img width="1013" height="730" alt="image" src="https://github.com/user-attachments/assets/b5761777-8e4a-4d67-8022-bb3d39ea0e4c" />
-- <img width="862" height="675" alt="image" src="https://github.com/user-attachments/assets/72a574cb-1883-4bde-8b41-8309cb73e5d8" />
+<img width="1584" height="208" alt="image" src="https://github.com/user-attachments/assets/d5aea63a-646a-4210-b19b-5595b2d3b078" />
+<img width="1013" height="730" alt="image" src="https://github.com/user-attachments/assets/b5761777-8e4a-4d67-8022-bb3d39ea0e4c" />
+<img width="862" height="675" alt="image" src="https://github.com/user-attachments/assets/72a574cb-1883-4bde-8b41-8309cb73e5d8" />
+<img width="1045" height="262" alt="image" src="https://github.com/user-attachments/assets/9166e512-ae90-4e28-b87e-ef984410f1a8" />
 
 
 ## Challenges Faced
